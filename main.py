@@ -4,6 +4,7 @@ from graphic_arts.start_game_banner import run_screensaver
 
 DEFAULT_ATTACK = 5
 DEFAULT_DEFENCE = 10
+DEFAULT_STAMINA = 80
 
 class Character: 
     
